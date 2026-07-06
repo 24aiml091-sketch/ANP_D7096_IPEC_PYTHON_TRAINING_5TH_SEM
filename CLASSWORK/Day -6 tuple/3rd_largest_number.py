@@ -1,0 +1,1 @@
+''' write a program to find 3rd '''
