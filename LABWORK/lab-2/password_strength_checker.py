@@ -12,7 +12,7 @@ The main program should accept a password from the user and display the result.'
 #-----------------coding----------------------
 #---------------------------------------------
 def check_password(password):
-    if len(password) < 8:
+    if len(password) <= 8:
         return "Weak Password"
     #condition-----
     has_upper = False
