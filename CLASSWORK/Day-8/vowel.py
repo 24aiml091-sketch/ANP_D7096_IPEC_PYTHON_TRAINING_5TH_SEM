@@ -14,5 +14,3 @@ print("Total number of vowels : ", vowels)
 #---------coding-------------------------
 '''Enter the sentence : Hello my name is sanjay. I'm a b.tech student.
 Total number of vowels :  12'''
-
-    

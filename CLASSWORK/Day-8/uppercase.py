@@ -21,7 +21,7 @@ print("Capitalize : ", sentence.capitalize())
 #--------------------------
 #--------------------------
 '''output:
-Enter the sentence : Hello My Name Is Sanjay.
+Hello My Name Is Sanjay.
 Lower case :  26
 Upper case :  5
 Capitalize :  Hello my name is sanjay.'''
