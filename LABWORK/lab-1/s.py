@@ -1,0 +1,1 @@
+'''rite a Python program that accepts a sentence from the user. Create separate user-defined functions to: 1. Count vowels.  2. Count consonants.  3. Count words.  4. Reverse the sentence.  Display all the results. Sample Input Python Programming Language Sample Output Vowels : 7 Consonants : 19 Words : 3 Reverse : egaugnaL gnimmargorP nohtyP '''
